@@ -1,0 +1,25 @@
+.demo-menu {
+  display: flex;
+  flex-flow: row wrap;
+
+  .menu-section {
+    width: 300px;
+    margin: 20px;
+  }
+
+  .end-icon {
+    align-items: flex-end;
+  }
+}
+
+.icon-20 {
+    font-size: 20px;
+}
+
+md-sidenav {
+    width: 320px;
+}
+
+md-sidenav-container {
+    height: 100vh;
+}
